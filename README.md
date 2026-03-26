@@ -12,4 +12,4 @@ Nexora is a next-generation DeFi protocol combining a decentralized exchange wit
 - AI-driven rebalancing strategies
 
 ## Status
-Currently in development.
+Currently in active development with smart contract prototypes and upgradeable architecture being implemented.
