@@ -11,7 +11,7 @@ Nexora is a next-generation DeFi protocol combining a decentralized exchange wit
 - **🤖 AI Rebalancing**: Strategies automatically adjust based on market conditions
 - **🔄 Upgradeable smart contracts**: New features can be added without user disruption
 - **🔒 Secure**: Built on OpenZeppelin's battle-tested contracts
-- Automated yield vault ($ETH & $USDC)
+- Automated yield vault ($ETH & $USDC and Robinhood stock coins(future))
 - Aave integration
 
 ## Status
