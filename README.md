@@ -2,7 +2,8 @@
 
 Trade. Earn. Automate.
 
-Nexora is a next-generation DeFi protocol combining a decentralized exchange with an automated yield vault, designed for retail users on Arbitrum and Robinhood. Nexora Finance provides a seamless, one-click earning experience for retail users:
+Nexora is a next-generation DeFi protocol combining a decentralized exchange with an automated yield vault, designed for retail users on Arc.
+Nexora provides a seamless, one-click earning experience for retail users:
 
 ## Features (Planned)
 
