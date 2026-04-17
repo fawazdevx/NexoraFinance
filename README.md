@@ -8,7 +8,6 @@ Nexora provides a seamless, one-click earning experience for retail users:
 ## Features (Planned)
 
 - **🎯 One-Click Earn**: Deposit and let AI-driven strategies automatically generate yield
-- **💱 DEX Trading**: Trade tokenized assets including Robinhood stock coins (TSLA, AAPL, etc.)
 - **🤖 AI Rebalancing**: Strategies automatically adjust based on market conditions
 - **🔄 Upgradeable smart contracts**: New features can be added without user disruption
 - **🔒 Secure**: Built on OpenZeppelin's battle-tested contracts
